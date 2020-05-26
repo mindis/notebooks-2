@@ -1,2 +1,2 @@
 # notebooks
-Notebooks for Case Studies
+ mlocity.in notebooks for case studies 
